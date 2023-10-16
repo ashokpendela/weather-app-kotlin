@@ -18,21 +18,17 @@ https://api.weather.gov/gridpoints/MLB/33,70/forecast
 To build the project, use Gradle:
 ```sh
 ./gradlew build
+```
 
 ## Running the Project
 To start the application, run the following command:
 ```sh
 ./gradlew bootRun
+```
 
-## Contributing
-- Explain how others can contribute to your project. Include guidelines for pull requests and contributions.
-
-## License
-- Mention the project's license (e.g., MIT License).
-
-## Acknowledgments
-- Give credit to any resources or tools you used in your project.
-
-## Contact
-- Provide contact information if someone wants to reach out to you regarding the project.
+## Example Usage
+You can make a API request as follows:
+```sh
+curl [http://localhost:8080/api/some-endpoint](http://localhost:8080/weather/current)
+```
 
