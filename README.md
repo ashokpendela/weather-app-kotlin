@@ -29,6 +29,6 @@ To start the application, run the following command:
 ## Example Usage
 You can make a API request as follows:
 ```sh
-curl [http://localhost:8080/api/some-endpoint](http://localhost:8080/weather/current)
+curl (http://localhost:8080/weather/current)
 ```
 
