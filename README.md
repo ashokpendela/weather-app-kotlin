@@ -24,5 +24,3 @@ To start the application, run the following command:
 You can make a API request as follows:
 ```sh
 curl http://localhost:8080/weather/current
-```
-
